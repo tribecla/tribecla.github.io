@@ -200,9 +200,8 @@ form{
 }
 
 .anim:hover {
-    width: 300px;
+    width: 500px;
 }
-
 
 @font-face {
   font-family: "FontAwesome";
@@ -214,7 +213,6 @@ form{
   font-weight: normal;
   font-style: normal;
 }
-
 
 
 @media screen and (max-width: 930px) {
@@ -256,7 +254,7 @@ form{
     }
 
     .anim{
-    margin-left: 200px;
+    margin-left: 60px;
     width: 200px;
     height: 50px;
     -webkit-transition: width 2s; /
@@ -283,7 +281,7 @@ form{
     font-size: 1em;
     color:white;
     margin:0px 10px;
-    top:15px;
+    top:20px;
     }
 
     .closeButton{
@@ -294,7 +292,6 @@ form{
 
     .menu ul li a{
     font-size: 14px;
-  /*  text-align: center;*/
     color: #fff;
     text-decoration: none;
     padding: 5px 0;
